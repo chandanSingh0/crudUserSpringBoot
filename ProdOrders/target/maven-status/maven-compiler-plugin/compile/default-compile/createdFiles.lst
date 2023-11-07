@@ -1,0 +1,6 @@
+com\ProdOrder\ProdOrders\entity\Product.class
+com\ProdOrder\ProdOrders\dao\productDao.class
+com\ProdOrder\ProdOrders\controller\productController.class
+com\ProdOrder\ProdOrders\config\SwaggerConfig.class
+com\ProdOrder\ProdOrders\service\productService.class
+com\ProdOrder\ProdOrders\ProdOrdersApplication.class
